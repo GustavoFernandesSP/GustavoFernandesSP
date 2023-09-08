@@ -11,11 +11,11 @@
 <br>
 <div align="center">
     <img
-      height="170em"
+      height="150em"
       src="https://github-readme-stats.vercel.app/api?username=GustavoFernandesSP&show_icons=true&theme=darck"
     />
   <img
-     height="170em"
+     height="150em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFernandesSP&layout=compact&&theme=darck"
     />
 </div>
