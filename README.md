@@ -2,8 +2,8 @@
 
 ### Hello, Welcome to my GitHub 🤙
 
-- 😄 Olá pode me chamar de Gusta
-- ⚡ SPtech School
+- 👋 Olá pode me chamar de Gusta
+- 🎓 SPtech School
 
 <h1> Gustavo Fernandes</h1>
 
