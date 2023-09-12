@@ -2,8 +2,9 @@
 
 ### Hello, Welcome to my GitHub 🤙
 
-- 👋 Olá pode me chamar de Gusta
-- 🎓 SPtech School
+- 👋 Olá pode me chamar de Gusta.
+- 🎓 SPtech School.
+- ☄️ Meta 2024 codar em java/Spring Boot.
 
 <h1> Gustavo Fernandes</h1>
 
