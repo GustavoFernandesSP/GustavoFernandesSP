@@ -4,7 +4,8 @@
 
 - 👋 Olá pode me chamar de Gusta.
 - 🎓 SPtech School.
-- ☄️ Meta 2024 codar em java/Spring Boot.
+- ☄️ Tirar Certificação Java e Spring 2026.
+
 
 <h1> Gustavo Fernandes</h1>
 
